@@ -14,7 +14,7 @@ d390_lock = threading.Lock()  # lock เพื่อกันชนกันร�
 
 
 
-model = YOLO("123_300ep.pt")
+model = YOLO("125_300ep.pt")
 
 center_off_gripper_x = 0.315
 center_off_gripper_y = 0.27
